@@ -8,6 +8,6 @@
 
 ## 改变属性
 
-![4](.\image\4.png)
-![2](.\image\2.png)
-![3](.\image\3.png)
+![4](image\4.png)
+![2](image\2.png)
+![3](image\3.png)
